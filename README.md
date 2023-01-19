@@ -1,6 +1,5 @@
-# Numerical Experiments
-This repository contains scripts to run the simulation described
-in *A Polynomial Algorithm for Best-Subset Selection Problem*. 
+# Reproducible materials
+This repository contains scripts to run the simulation described in [A Polynomial Algorithm for Best-Subset Selection Problem](https://www.pnas.org/doi/10.1073/pnas.2014241117). 
 
 ## Codes
 
@@ -10,9 +9,9 @@ in *A Polynomial Algorithm for Best-Subset Selection Problem*.
 
 ## Softwares
 
+* abess : R package `abess` (0.4.6).
 * Lasso : R package `glmnet` (4.1.6).
 * MCP & SCAD : R package `ncvreg` (3.13.0).
-* abess : R package `abess` (0.4.6).
 
 
 ## Citations
@@ -27,16 +26,15 @@ The corresponding BibteX entries:
 
 ```
 @article{doi:10.1073/pnas.2014241117,
-author = {Junxian Zhu  and Canhong Wen  and Jin Zhu  and Heping Zhang  and Xueqin Wang },
-title = {A polynomial algorithm for best-subset selection problem},
-journal = {Proceedings of the National Academy of Sciences},
-volume = {117},
-number = {52},
-pages = {33117-33123},
-year = {2020},
-doi = {10.1073/pnas.2014241117},
-URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2014241117},
-eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2014241117},
+  author = {Junxian Zhu and Canhong Wen and Jin Zhu and Heping Zhang and Xueqin Wang},
+  title = {A polynomial algorithm for best-subset selection problem},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {117},
+  number = {52},
+  pages = {33117-33123},
+  year = {2020},
+  doi = {10.1073/pnas.2014241117},
+  URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2014241117}
 }
 
 ```
