@@ -3,9 +3,9 @@ This repository contains scripts to run the simulation described in [A Polynomia
 
 ## Codes
 
-1. Run R script "simulation.R". This script produce the simulation result in the paper with format ".rda"
-2. Run "visualize.R" to generate the Figures 1 and 2 in the main text.
-3. Run "tablize.R" to create the Table 1 (in the main text) and Tables S1-S3 (in the support information).
+1. `simulation.R`: This script produce the simulation result in the paper with format ".rda"
+2. `visualize.R`: generate the Figures 1 and 2 in the main text.
+3. `tablize.R`: create the Table 1 (in the main text) and Tables S1-S3 (in the support information).
 
 ## Softwares
 
