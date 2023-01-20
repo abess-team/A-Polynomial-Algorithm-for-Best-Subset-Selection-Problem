@@ -20,9 +20,10 @@ We get the low-dimensional results:
 
 ### High-dimensional results
 We get the high-dimensional results:
-![](./image/high_dimension_result_1.png)
+<img src="./image/high_dimension_result_1.png" alt="Cover" width="50%"/>
+
 The runtime comparison results are presented as
-![](./image/high_dimension_result_2.png)
+<img src="./image/high_dimension_result_2.png" alt="Cover" width="50%"/>
 
 ## Citations
 
