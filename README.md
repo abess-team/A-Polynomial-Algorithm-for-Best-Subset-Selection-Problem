@@ -18,16 +18,16 @@ This repository contains scripts to run the simulation described in [A Polynomia
 We get the low-dimensional results:
 <div align=center>
 <img src="./image/runtime.png" alt="Cover" width="55%"/>
-<\div>
+</div>
 ### High-dimensional results
 We get the high-dimensional results:
 <div align=center>
 <img src="./image/high_dimension_result_1.png" alt="Cover" width="60%"/>
-<\div>
+</div>
 The runtime comparison results are presented as
 <div align=center>
 <img src="./image/high_dimension_result_2.png" alt="Cover" width="55%"/>
-<\div>
+</div>
 ## Citations
 
 Please cite the following publications if you make use of the material here.
