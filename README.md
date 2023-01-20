@@ -13,6 +13,16 @@ This repository contains scripts to run the simulation described in [A Polynomia
 * Lasso : R package `glmnet` (4.1.6).
 * MCP & SCAD : R package `ncvreg` (3.13.0).
 
+## Visualization
+### Low-dimensional results
+We get the low-dimensional results:
+![](./image/runtime.png style="zoom:50%;)
+
+### High-dimensional results
+We get the high-dimensional results:
+![](./image/high_dimension_result_1.png style="zoom:50%;)
+The runtime comparison results are presented as
+![](./image/high_dimension_result_2.png style="zoom:50%;)
 
 ## Citations
 
