@@ -16,13 +16,13 @@ This repository contains scripts to run the simulation described in [A Polynomia
 ## Visualization
 ### Low-dimensional results
 We get the low-dimensional results:
-![](./image/runtime.png){:height="50%" width="50%"}
+<img src="./image/runtime.png" alt="Cover" width="50%"/>
 
 ### High-dimensional results
 We get the high-dimensional results:
-![](./image/high_dimension_result_1.png){:height="50%" width="50%"}
+![](./image/high_dimension_result_1.png)
 The runtime comparison results are presented as
-![](./image/high_dimension_result_2.png){:height="50%" width="50%"}
+![](./image/high_dimension_result_2.png)
 
 ## Citations
 
