@@ -28,6 +28,7 @@ The runtime comparison results are presented as
 <div align=center>
 <img src="./image/high_dimension_result_2.png" alt="Cover" width="55%"/>
 </div>
+
 ## Citations
 
 Please cite the following publications if you make use of the material here.
