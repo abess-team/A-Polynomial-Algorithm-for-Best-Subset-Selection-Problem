@@ -19,6 +19,7 @@ We get the low-dimensional results:
 <div align=center>
 <img src="./image/runtime.png" alt="Cover" width="55%"/>
 </div>
+
 ### High-dimensional results
 We get the high-dimensional results:
 <div align=center>
